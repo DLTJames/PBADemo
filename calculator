@@ -1,0 +1,7 @@
+def_add(num1, num2)
+    print (num1+num1)
+
+
+one = input int( ("Enter number one"))
+two = input int( ("Enter number two"))
+add(one, two)
